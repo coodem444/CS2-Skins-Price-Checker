@@ -19,7 +19,7 @@
 
 ## 📸 Preview
 
-> *(Replace these images with your own screenshots.)*
+![Preview](assets/preview.png)
 
 ### Notion Database
 
@@ -28,14 +28,6 @@
 ### Console Output
 
 ![Console](assets/console.png)
-
----
-
-## 🎥 Demo
-
-![Demo](assets/demo.gif)
-
-> A short GIF showing the script updating your Notion database looks fantastic on GitHub.
 
 ---
 
@@ -203,24 +195,4 @@ is excluded via `.gitignore`.
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
-```
-
----
-
-## 📸 Capturas que te recomiendo hacer
-
-Crea una carpeta llamada:
-
-```text
-assets/
-```
-
-y añade:
-
-```text
-assets/
-├── demo.gif
-├── notion-dashboard.png
-├── console.png
-├── discord-alert.png
 ```
